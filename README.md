@@ -20,13 +20,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=Bootstrap)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
-
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Docker Automated build](https://img.shields.io/docker/automated/:user/:repo)
+![Docker Automated build](https://img.shields.io/#2496EDd/:user/:repo)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
