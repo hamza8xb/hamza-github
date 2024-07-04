@@ -14,18 +14,12 @@
 - 📫 How to reach me **hamza@gmail.com**
 
 ### 🛠 &nbsp;Languages and Tools :
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=Bootstrap)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Docker Automated build](https://img.shields.io/#2496EDd/:user/:repo)
+![Static Badge](https://img.shields.io/badge/docker-black?style=flat&logo=docker)
+![Static Badge](https://img.shields.io/badge/ansible-black?style=flat&logo=ansible)
+![Static Badge](https://img.shields.io/badge/aws-black?style=flat&logo=amazonwebservices)
+![Static Badge](https://img.shields.io/badge/git-black?style=flat&logo=git)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
 
