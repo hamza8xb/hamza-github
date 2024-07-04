@@ -32,7 +32,6 @@
 <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1667" height="30" width="40" /></a>
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledradwan96&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
